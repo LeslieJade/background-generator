@@ -1,0 +1,37 @@
+body {
+    background: linear-gradient(to right, purple, cyan);
+    color: rgba(0,0,0,.5);
+    letter-spacing: .5em;
+    text-align: center;
+    text-transform: uppercase;
+    top: 15%;
+}
+
+h1 {
+    color: rgba(0,0,0,.5);
+    font: 600 3.5em 'Raleway', sans-serif;
+    letter-spacing: .5em;
+    text-align: center;
+    text-transform: uppercase;
+    width: 100%;
+} 
+
+h3 {
+    color: rgba(0,0,0,.5);
+    font: 900 1em 'Raleway', sans-serif;
+    letter-spacing: 0.01em;
+    text-align: center;
+    text-transform: none;
+}
+
+button {
+    background-color: rgba(200,215,215,.5);
+    border: none;
+    color: rgba(0,0,0,.65);
+    cursor: pointer;
+    font: 600 1em 'Times New Roman', serif;
+    letter-spacing: 0.15em;
+    outline: none;
+    padding: 10px;
+    text-transform: uppercase;
+}
